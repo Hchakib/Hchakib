@@ -30,7 +30,6 @@ I love turning ideas into digital products, and I'm constantly exploring new tec
 - 🔥 [**NetflixApp-React**](https://github.com/Hchakib/NetflixApp-React): Netflix-style streaming platform using React, Node.js, MongoDB
 - 🛒 [**ElectroShop-Symphony**](https://github.com/Hchakib/ElectroShop-Symphony): Full-featured e-commerce website using Symfony and MySQL
 - 🧾 [**Fripe-PHP**](https://github.com/Hchakib/Fripe-PHP): Online thrift shop with user authentication, admin verification, and Bootstrap UI
-- 👥 [**Adherents-MVC**](https://github.com/Hchakib/Adherents-MVC): ASP.NET Core MVC app for managing members with CRUD and role-based access
 - 📱 [**GCIA-AndroidStudioJava**](https://github.com/Hchakib/GCIA-AndroidStudioJava): Android app to track income, expenses, and calculate debt ratio
 - 🪑 [**LarmoireWeb-NET**](https://github.com/Hchakib/LarmoireWeb-NET): ASP.NET Core MVC platform for selling furniture and renovation services
 
