@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a software developer with a deep interest in solving real problems through clean, maintainable code. I specialize in full-stack development—whether it's building interactive frontends with React or architecting backend APIs in Node.js, Symfony, or ASP.NET Core. I also enjoy working on mobile apps using Android Studio with Java.
+I'm a software developer with a deep interest in solving real problems through clean, maintainable code. I specialize in full-stack development—whether it's building interactive frontends with React or architecting backend APIs in Node.js, Symfony, or ASP.NET Core. I also enjoy working on mobile apps using Android Studio with Kotlin.
 
 💡 One of the most exciting projects I worked on was delivering an entire e-commerce platform with admin capabilities in under 72 hours using Symfony. This experience taught me how to prioritize features, write scalable code under pressure, and most importantly—get things done.
 
